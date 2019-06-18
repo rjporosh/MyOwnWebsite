@@ -41,16 +41,16 @@
                 <a class="nav-link active" href="#" data-shuffle="button">All</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#" data-shuffle="button" data-group="bag">Bag</a>
+                <a class="nav-link" href="#" data-shuffle="button" data-group="bag">School Management System (SMS)</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#" data-shuffle="button" data-group="box">Box</a>
+                <a class="nav-link" href="#" data-shuffle="button" data-group="box">Dealer Management Software (DMS)</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#" data-shuffle="button" data-group="book">Book</a>
+                <a class="nav-link" href="#" data-shuffle="button" data-group="book">Point on Sale (POS)</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#" data-shuffle="button" data-group="bottle">Bottle</a>
+                <a class="nav-link" href="#" data-shuffle="button" data-group="bottle">Hospital Management System (HMS)</a>
               </li>
             </ul>
 
@@ -58,77 +58,11 @@
             <div class="row gap-y gap-2" data-shuffle="list">
 
               <div class="col-6 col-lg-3" data-shuffle="item" data-groups="bag,box">
-                <a class="portfolio-1" href="portfolio-single.html">
-                  <img src="../assets/img/portfolio/1.jpg" alt="screenshot">
+                <a class="portfolio-1" href="portfolio-single.php">
+                  <img src="../assets/img/portfolio/demo-sms.jpg" alt="screenshot">
                   <div class="portfolio-detail">
-                    <h5>Phone Bag</h5>
-                    <p>Bag, Box</p>
-                  </div>
-                </a>
-              </div>
-
-
-              <div class="col-6 col-lg-3" data-shuffle="item" data-groups="book">
-                <a class="portfolio-1" href="portfolio-single.html">
-                  <img src="../assets/img/portfolio/2.jpg" alt="screenshot">
-                  <div class="portfolio-detail">
-                    <h5>Mockup Book</h5>
-                    <p>Book</p>
-                  </div>
-                </a>
-              </div>
-
-
-              <div class="col-6 col-lg-3" data-shuffle="item" data-groups="box">
-                <a class="portfolio-1" href="portfolio-single.html">
-                  <img src="../assets/img/portfolio/3.jpg" alt="screenshot">
-                  <div class="portfolio-detail">
-                    <h5>T-shirt</h5>
-                    <p>Box</p>
-                  </div>
-                </a>
-              </div>
-
-
-              <div class="col-6 col-lg-3" data-shuffle="item" data-groups="bottle">
-                <a class="portfolio-1" href="portfolio-single.html">
-                  <img src="../assets/img/portfolio/4.jpg" alt="screenshot">
-                  <div class="portfolio-detail">
-                    <h5>Coffee</h5>
-                    <p>Bottle</p>
-                  </div>
-                </a>
-              </div>
-
-
-              <div class="col-6 col-lg-3" data-shuffle="item" data-groups="bottle">
-                <a class="portfolio-1" href="portfolio-single.html">
-                  <img src="../assets/img/portfolio/5.jpg" alt="screenshot">
-                  <div class="portfolio-detail">
-                    <h5>Shampoo</h5>
-                    <p>Bottle</p>
-                  </div>
-                </a>
-              </div>
-
-
-              <div class="col-6 col-lg-3" data-shuffle="item" data-groups="bag">
-                <a class="portfolio-1" href="portfolio-single.html">
-                  <img src="../assets/img/portfolio/6.jpg" alt="screenshot">
-                  <div class="portfolio-detail">
-                    <h5>Paper bag</h5>
-                    <p>Bag</p>
-                  </div>
-                </a>
-              </div>
-
-
-              <div class="col-6 col-lg-3" data-shuffle="item" data-groups="bottle">
-                <a class="portfolio-1" href="portfolio-single.html">
-                  <img src="../assets/img/portfolio/7.jpg" alt="screenshot">
-                  <div class="portfolio-detail">
-                    <h5>Elixir</h5>
-                    <p>Bottle</p>
+                    <h5>School Management System (SMS)</h5>
+                    <p>SMS</p>
                   </div>
                 </a>
               </div>
@@ -136,13 +70,38 @@
 
               <div class="col-6 col-lg-3" data-shuffle="item" data-groups="book">
                 <a class="portfolio-1" href="portfolio-single.php">
-                  <img src="../assets/img/portfolio/8.jpg" alt="screenshot">
+                  <img src="../assets/img/portfolio/demo-dms.jpg" alt="screenshot">
                   <div class="portfolio-detail">
-                    <h5>Magazine</h5>
-                    <p>Book</p>
+                    <h5>Dealer Management Software(DMS)</h5>
+                    <p>DMS</p>
                   </div>
                 </a>
               </div>
+
+
+              <div class="col-6 col-lg-3" data-shuffle="item" data-groups="box">
+                <a class="portfolio-1" href="portfolio-single.php">
+                  <img src="../assets/img/portfolio/demo-pos.jpg" alt="screenshot">
+                  <div class="portfolio-detail">
+                    <h5>Point On Sale(POS)</h5>
+                    <p>POS</p>
+                  </div>
+                </a>
+              </div>
+
+
+              <div class="col-6 col-lg-3" data-shuffle="item" data-groups="bottle">
+                <a class="portfolio-1" href="portfolio-single.php">
+                  <img src="../assets/img/portfolio/demo-hms.jpg" alt="screenshot">
+                  <div class="portfolio-detail">
+                    <h5>Hospital Management System(HMS)</h5>
+                    <p>HMS</p>
+                  </div>
+                </a>
+              </div>
+
+
+              
 
             </div>
           </div>

@@ -83,7 +83,7 @@
 
               <div class="col-6 col-lg-3" data-shuffle="item" data-groups="bag,box">
                 <a class="portfolio-1" href="#" data-toggle="modal" data-target="#modal-portfolio">
-                  <img src="../assets/img/portfolio/demo-sms.jpg" alt="screenshot">
+                  <img src="../assets/img/portfolio/demo-dms.jpg" alt="screenshot">
                   <div class="portfolio-detail">
                     <h5>Dealer Management Software (DMS)</h5>
                     <p>DMS</p>
@@ -92,7 +92,7 @@
               </div>
 
 
-              <div class="col-6 col-lg-3" data-shuffle="item" data-groups="book">
+              <div class="col-6 col-lg-3" data-shuffle="item" data-groups="bag,box">
                 <a class="portfolio-1" href="#" data-toggle="modal" data-target="#modal-portfolio">
                   <img src="../assets/img/portfolio/demo-sms.jpg" alt="screenshot">
                   <div class="portfolio-detail">
@@ -103,7 +103,7 @@
               </div>
 
 
-              <div class="col-6 col-lg-3" data-shuffle="item" data-groups="box">
+              <div class="col-6 col-lg-3" data-shuffle="item" data-groups="bag,box">
                 <a class="portfolio-1" href="#" data-toggle="modal" data-target="#modal-portfolio">
                   <img src="../assets/img/portfolio/demo-pos.jpg" alt="screenshot">
                   <div class="portfolio-detail">
@@ -114,7 +114,7 @@
               </div>
 
 
-              <div class="col-6 col-lg-3" data-shuffle="item" data-groups="bottle">
+              <div class="col-6 col-lg-3" data-shuffle="item" data-groups="bag,box">
                 <a class="portfolio-1" href="#" data-toggle="modal" data-target="#modal-portfolio">
                   <img src="../assets/img/portfolio/demo-hms.jpg" alt="screenshot">
                   <div class="portfolio-detail">
@@ -199,7 +199,7 @@ Peacetech Solutions offers the most ever user-friendly school management system,
 
 
               <div class="col-5 col-md-6 position-relative" style="min-height: 400px;">
-                <img class="fill-parent fit-cover rounded-right" src="../assets/img/portfolio/de,o-sms.jpg" alt="project image">
+                <img class="fill-parent fit-cover rounded-right" src="../assets/img/portfolio/demo-sms.jpg" alt="project image">
               </div>
             </div>
           </div>
@@ -212,5 +212,9 @@ Peacetech Solutions offers the most ever user-friendly school management system,
     <!-- Scripts -->
     <script src="../assets/js/page.min.js"></script>
     <script src="../assets/js/script.js"></script>
+	 </body>
+
+<!-- Mirrored from thetheme.io/thesaas/page/portfolio-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 18 Jun 2019 17:21:49 GMT -->
+</html>
 
  <?php include '../footer.php';?>
