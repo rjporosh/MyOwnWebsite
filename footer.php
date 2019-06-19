@@ -13,10 +13,12 @@
 
           <div class="col-6 col-lg-3 text-right order-lg-last">
             <div class="social">
-              <a class="social-facebook" href="#"><i class="fa fa-facebook"></i></a>
-              <a class="social-twitter" href="#"><i class="fa fa-twitter"></i></a>
-              <a class="social-instagram" href="#"><i class="fa fa-instagram"></i></a>
-              <a class="social-dribbble" href="#"><i class="fa fa-dribbble"></i></a>
+              <a class="social-facebook" href="https://facebook.com/rjporosh19"><i class="fa fa-facebook"></i></a>
+              <a class="social-twitter" href="https://twitter.com/rjporosh"><i class="fa fa-twitter"></i></a>
+              <a class="social-instagram" href="https://instgram.com/rjporosh94"><i class="fa fa-instagram"></i></a>
+              <a class="social-dribbble" href="https://merjporosh.blogspot.com"><i class="fa fa-dribbble"></i></a>
+			  <a class="social-youtube" href="https://youtube.com/rjporosh?sub_confirmation=1"><i class="fa fa-youtube"></i></a>
+			  <a class="social-blogger" href="https://merjporosh.blogspot.com"><i class="fa fa-blogger"></i></a>
             </div>
           </div>
 

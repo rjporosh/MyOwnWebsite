@@ -96,6 +96,15 @@
                 </div>
               </a>
             </div>
+			
+			<div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="150">
+              <a class="card shadow-1 hover-shadow-7" href="https://play.google.com/store/apps/details?id=com.universalmedicalrecord.umrportals" target="_blank">
+                <img class="card-img-top" src="assets/img/preview/demo-umr.jpg" alt="Demo">
+                <div class="card-body">
+                  <h6 class="mb-0">Universal Medical Informatics</h6>
+                </div>
+              </a>
+            </div>
            
           </div>
 

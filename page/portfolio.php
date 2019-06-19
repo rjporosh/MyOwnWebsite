@@ -41,24 +41,27 @@
                 <a class="nav-link active" href="#" data-shuffle="button">All</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#" data-shuffle="button" data-group="bag">School Management System (SMS)</a>
+                <a class="nav-link" href="sms.php" data-shuffle="button" data-group="sms">School Management System (SMS)</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#" data-shuffle="button" data-group="box">Dealer Management Software (DMS)</a>
+                <a class="nav-link" href="dms.php" data-shuffle="button" data-group="dms">Dealer Management Software (DMS)</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#" data-shuffle="button" data-group="book">Point on Sale (POS)</a>
+                <a class="nav-link" href="pos.php" data-shuffle="button" data-group="pos">Point on Sale (POS)</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#" data-shuffle="button" data-group="bottle">Hospital Management System (HMS)</a>
+                <a class="nav-link" href="hms.php" data-shuffle="button" data-group="hms">Hospital Management System (HMS)</a>
+              </li>
+			  <li class="nav-item">
+                <a class="nav-link" href="umr.php" data-shuffle="button" data-group="umr">Universal Medical Informatics(UMR)</a>
               </li>
             </ul>
 
 
             <div class="row gap-y gap-2" data-shuffle="list">
 
-              <div class="col-6 col-lg-3" data-shuffle="item" data-groups="bag,box">
-                <a class="portfolio-1" href="portfolio-single.php">
+              <div class="col-6 col-lg-3" data-shuffle="item" data-groups="sms">
+                <a class="portfolio-1" href="sms.php">
                   <img src="../assets/img/portfolio/demo-sms.jpg" alt="screenshot">
                   <div class="portfolio-detail">
                     <h5>School Management System (SMS)</h5>
@@ -68,8 +71,8 @@
               </div>
 
 
-              <div class="col-6 col-lg-3" data-shuffle="item" data-groups="book">
-                <a class="portfolio-1" href="portfolio-single.php">
+              <div class="col-6 col-lg-3" data-shuffle="item" data-groups="dms">
+                <a class="portfolio-1" href="dms.php">
                   <img src="../assets/img/portfolio/demo-dms.jpg" alt="screenshot">
                   <div class="portfolio-detail">
                     <h5>Dealer Management Software(DMS)</h5>
@@ -79,8 +82,8 @@
               </div>
 
 
-              <div class="col-6 col-lg-3" data-shuffle="item" data-groups="box">
-                <a class="portfolio-1" href="portfolio-single.php">
+              <div class="col-6 col-lg-3" data-shuffle="item" data-groups="pos">
+                <a class="portfolio-1" href="pos.php">
                   <img src="../assets/img/portfolio/demo-pos.jpg" alt="screenshot">
                   <div class="portfolio-detail">
                     <h5>Point On Sale(POS)</h5>
@@ -90,8 +93,8 @@
               </div>
 
 
-              <div class="col-6 col-lg-3" data-shuffle="item" data-groups="bottle">
-                <a class="portfolio-1" href="portfolio-single.php">
+              <div class="col-6 col-lg-3" data-shuffle="item" data-groups="hms">
+                <a class="portfolio-1" href="hms.php">
                   <img src="../assets/img/portfolio/demo-hms.jpg" alt="screenshot">
                   <div class="portfolio-detail">
                     <h5>Hospital Management System(HMS)</h5>
@@ -99,7 +102,16 @@
                   </div>
                 </a>
               </div>
-
+                 
+				  <div class="col-6 col-lg-3" data-shuffle="item" data-groups="umr">
+                <a class="portfolio-1" href="umr.php">
+                  <img src="../assets/img/portfolio/demo-umr.jpg" alt="screenshot">
+                  <div class="portfolio-detail">
+                    <h5>Universal Medical Informatics(UMR)</h5>
+                    <p>UMR</p>
+                  </div>
+                </a>
+              </div>
 
               
 

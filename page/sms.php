@@ -43,7 +43,7 @@
 
                 <li>
                   <strong>Skills</strong>
-                  <span>Design, HTML, CSS, Javascript,Asp.Net</span>
+                  <span>Design, HTML, CSS, Javascript,Asp.Net,Android,Ios</span>
                 </li>
 
                 <li>

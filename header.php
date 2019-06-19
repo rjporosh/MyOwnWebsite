@@ -54,20 +54,20 @@
 
           <ul class="nav nav-navbar">
             <li class="nav-item">
-              <a class="nav-link" href="/index.php#section-demo" >Demos
+              <a class="nav-link" href="/MyOwnWebSite/index.php#section-demo" >Demos
         
             </li>
           <li class="nav-item">
-              <a class="nav-link" href="/page/about.php">About 
+              <a class="nav-link" href="/myownwebsite/page/about.php">About 
 			</li>
 			 <li class="nav-item">
-              <a class="nav-link" href="/page/service.php">Service 
+              <a class="nav-link" href="/myownwebsite/page/service.php">Service 
 			</li>
 			 <li class="nav-item">
-              <a class="nav-link" href="/page/portfolio.php">Portfolio 
+              <a class="nav-link" href="/myownwebsite/page/portfolio.php">Portfolio 
 			</li>
 			    <li class="nav-item">
-              <a class="nav-link" href="/page/contact.php">Contact 
+              <a class="nav-link" href="/myownwebsite/page/contact.php">Contact 
 			  </li>
         
               
@@ -75,7 +75,7 @@
           </ul>
         </section>
 
-        <a class="btn btn-xs btn-round btn-success" href="/page/contact.php">Contact Now</a>
+        <a class="btn btn-xs btn-round btn-success" href="/myownwebsite/page/contact.php">Contact Now</a>
 
       </div>
     </nav><!-- /.navbar -->

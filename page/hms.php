@@ -21,7 +21,7 @@
 
           <div class="row">
             <div class="col-md-8 mb-6 mb-md-0">
-              <img src="../assets/img/portfolio/demo-sms.jpg" alt="project image">
+              <img src="../assets/img/portfolio/demo-hms.jpg" alt="project image">
             </div>
 
 
