@@ -59,7 +59,9 @@
           
           </header>
 
-
+<amp-auto-ads type="adsense"
+              data-ad-client="ca-pub-7665929784754274">
+</amp-auto-ads>
           <div class="row gap-y">
 
             <div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="0">
@@ -71,7 +73,9 @@
               </a>
             </div>
 
-
+<amp-auto-ads type="adsense"
+              data-ad-client="ca-pub-7665929784754274">
+</amp-auto-ads>
             <div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="150">
               <a class="card shadow-1 hover-shadow-7" href="demo/POS/" target="_blank">
                 <img class="card-img-top" src="assets/img/preview/demo-pos.jpg" alt="Demo">
@@ -121,7 +125,9 @@
 
 
       
- 
+ <amp-auto-ads type="adsense"
+              data-ad-client="ca-pub-7665929784754274">
+</amp-auto-ads>
 
 
      
@@ -276,7 +282,9 @@
               </div>
             </div>
 
-
+<amp-auto-ads type="adsense"
+              data-ad-client="ca-pub-7665929784754274">
+</amp-auto-ads>
             <div class="p-5">
               <div class="card border hover-shadow-6">
                 <div class="card-body px-5">
@@ -303,7 +311,9 @@
               </div>
             </div>
 
-
+<amp-auto-ads type="adsense"
+              data-ad-client="ca-pub-7665929784754274">
+</amp-auto-ads>
             <div class="p-5">
               <div class="card border hover-shadow-6">
                 <div class="card-body px-5">

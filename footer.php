@@ -1,4 +1,6 @@
-
+<amp-auto-ads type="adsense"
+              data-ad-client="ca-pub-7665929784754274">
+</amp-auto-ads>
 </main>
 
 
@@ -42,6 +44,13 @@
 
 
     <!-- Scripts -->
+	<amp-auto-ads type="adsense"
+              data-ad-client="ca-pub-7665929784754274">
+</amp-auto-ads>
+<script async custom-element="amp-auto-ads"
+        src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+</script>
+
     <script src="assets/js/page.min.js"></script>
     <script src="assets/js/script.js"></script>
 

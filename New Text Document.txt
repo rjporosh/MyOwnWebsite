@@ -10,6 +10,31 @@ Paste between <head> and </head> tag to Show Adsense Ad On Your Site
 
 
 Paste between <body> and </body> tag to Show Adsense Ad On Your Site
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-7665929784754274",
+          enable_page_level_ads: true
+     });
+</script>
+
+
+
+AMP
+<amp-auto-ads type="adsense"
+              data-ad-client="ca-pub-7665929784754274">
+</amp-auto-ads>
+<script async custom-element="amp-auto-ads"
+        src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+</script>
+
+
+
+Body Section Paste
+<amp-auto-ads type="adsense"
+              data-ad-client="ca-pub-7665929784754274">
+</amp-auto-ads>
+
 
 rj porosh.ml user name password and ftp name below
 hostname: ftpupload.net
