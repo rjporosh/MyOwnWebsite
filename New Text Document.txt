@@ -1,0 +1,24 @@
+Paste between <head> and </head> tag to Show Adsense Ad On Your Site
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-7665929784754274",
+          enable_page_level_ads: true
+     });
+</script>
+
+
+Paste between <body> and </body> tag to Show Adsense Ad On Your Site
+
+rj porosh.ml user name password and ftp name below
+hostname: ftpupload.net
+username: epiz_22780008
+password: cxVxMwwT5sd2X
+
+
+FTP Username	epiz_22780008
+FTP Password	
+cxVxMwwT5sd2X
+FTP Hostname	ftpupload.net
+FTP Port (optional)	21

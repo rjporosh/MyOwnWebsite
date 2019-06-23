@@ -11,6 +11,13 @@
   
 <!-- Mirrored from thetheme.io/thesaas/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 20 Jul 2018 04:48:14 GMT -->
 <head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-7665929784754274",
+          enable_page_level_ads: true
+     });
+</script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
@@ -54,20 +61,20 @@
 
           <ul class="nav nav-navbar">
             <li class="nav-item">
-              <a class="nav-link" href="/MyOwnWebSite/index.php#section-demo" >Demos
+              <a class="nav-link" href="/index.php#section-demo" >Demos
         
             </li>
           <li class="nav-item">
-              <a class="nav-link" href="/myownwebsite/page/about.php">About 
+              <a class="nav-link" href="/page/about.php">About 
 			</li>
 			 <li class="nav-item">
-              <a class="nav-link" href="/myownwebsite/page/service.php">Service 
+              <a class="nav-link" href="/page/service.php">Service 
 			</li>
 			 <li class="nav-item">
-              <a class="nav-link" href="/myownwebsite/page/portfolio.php">Portfolio 
+              <a class="nav-link" href="/page/portfolio.php">Portfolio 
 			</li>
 			    <li class="nav-item">
-              <a class="nav-link" href="/myownwebsite/page/contact.php">Contact 
+              <a class="nav-link" href="/page/contact.php">Contact 
 			  </li>
         
               
@@ -75,7 +82,7 @@
           </ul>
         </section>
 
-        <a class="btn btn-xs btn-round btn-success" href="/myownwebsite/page/contact.php">Contact Now</a>
+        <a class="btn btn-xs btn-round btn-success" href="/page/contact.php">Contact Now</a>
 
       </div>
     </nav><!-- /.navbar -->

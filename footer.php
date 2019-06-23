@@ -24,14 +24,14 @@
 
           <div class="col-lg-6">
             <div class="nav nav-bold nav-uppercase nav-trim justify-content-lg-center">
-              <a class="nav-link" href="/MyOwnWebSite/index.php#section-demo">Demos</a>
+              <a class="nav-link" href="/index.php#section-demo">Demos</a>
             
-              <a class="nav-link" href="/MyOwnWebSite/page/about.php">About</a>
+              <a class="nav-link" href="/page/about.php">About</a>
         
-              <a class="nav-link" href="/MyOwnWebSite/page/service.php">Service</a>
-			   <a class="nav-link" href="/MyOwnWebSite/page/portfolio.php">Portfolio</a>
+              <a class="nav-link" href="/page/service.php">Service</a>
+			   <a class="nav-link" href="/page/portfolio.php">Portfolio</a>
 			  
-			 <a class="nav-link"  href="/MyOwnWebSite/page/contact.php">Contact</a>
+			 <a class="nav-link"  href="/page/contact.php">Contact</a>
 		
             </div>
           </div>

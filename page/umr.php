@@ -413,7 +413,7 @@ Peacetech Solutions offers the most ever user-friendly school management system,
 
             <div class="row no-gutters">
               <div class="col-6 col-md-5 mx-auto py-7">
-                <h5>Universal Medical informatics (UMR)</h5>
+                <h5>Universal Medical informatics (Android)</h5>
 
                 <p>Integrate all of the healthcare providers via HIPAA compliant Universal Medical Informatics portal. This portal maintains all standards of “CCD”, “HL7”, and “Meaningful Use”.
 
@@ -487,14 +487,14 @@ Give all healthcare providers a unique and clinically focused Dashboard for revi
 
                   <li>
                     <strong>Address</strong>
-                    <a href="https://apps.apple.com/us/app/universal-medical-informatics/id1458500269">play.google.com/store/apps/details?id=com.universalmedicalrecord.umrportals</a>
+                    <a href="https://apps.apple.com/us/app/universal-medical-informatics/id1458500269">https://apps.apple.com/us/app/universal-medical-informatics/id1458500269</a>
                   </li>
                 </ul>
               </div>
 
 
               <div class="col-5 col-md-6 position-relative" style="min-height: 400px;">
-                <img class="fill-parent fit-cover rounded-right" src="../assets/img/portfolio/demo-umr.jpg" alt="project image">
+                <img class="fill-parent fit-cover rounded-right" src="../assets/img/portfolio/demo-umr-i.jpg" alt="project image">
               </div>
             </div>
           </div>

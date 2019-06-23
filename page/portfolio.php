@@ -107,7 +107,17 @@
                 <a class="portfolio-1" href="umr.php">
                   <img src="../assets/img/portfolio/demo-umr.jpg" alt="screenshot">
                   <div class="portfolio-detail">
-                    <h5>Universal Medical Informatics(UMR)</h5>
+                    <h5>Universal Medical Informatics(Android)</h5>
+                    <p>UMR</p>
+                  </div>
+                </a>
+              </div>
+			  
+			    <div class="col-6 col-lg-3" data-shuffle="item" data-groups="umr-i">
+                <a class="portfolio-1" href="umr-i.php">
+                  <img src="../assets/img/portfolio/demo-umr-i.jpg" alt="screenshot">
+                  <div class="portfolio-detail">
+                    <h5>Universal Medical Informatics(Ios)</h5>
                     <p>UMR</p>
                   </div>
                 </a>

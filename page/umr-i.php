@@ -49,7 +49,7 @@ Give all healthcare providers a unique and clinically focused Dashboard for revi
 
                 <li>
                   <strong>Address</strong>
-                  <a href="https://play.google.com/store/apps/details?id=com.universalmedicalrecord.umrportals">play.google.com</a>
+                  <a href="https://apps.apple.com/us/app/universal-medical-informatics/id1458500269">https://apps.apple.com/us/app/universal-medical-informatics/id1458500269</a>
                 </li>
 
                 <li>
@@ -487,14 +487,14 @@ Give all healthcare providers a unique and clinically focused Dashboard for revi
 
                   <li>
                     <strong>Address</strong>
-                    <a href="https://apps.apple.com/us/app/universal-medical-informatics/id1458500269">play.google.com/store/apps/details?id=com.universalmedicalrecord.umrportals</a>
+                    <a href="https://apps.apple.com/us/app/universal-medical-informatics/id1458500269">https://apps.apple.com/us/app/universal-medical-informatics/id1458500269</a>
                   </li>
                 </ul>
               </div>
 
 
               <div class="col-5 col-md-6 position-relative" style="min-height: 400px;">
-                <img class="fill-parent fit-cover rounded-right" src="../assets/img/portfolio/demo-umr.jpg" alt="project image">
+                <img class="fill-parent fit-cover rounded-right" src="../assets/img/portfolio/demo-umr-i.jpg" alt="project image">
               </div>
             </div>
           </div>
