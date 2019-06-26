@@ -21,20 +21,23 @@
         </div>
 
         <div class="d-none d-lg-block sample-blocks">
-          <a href="demo/School_Managment_System/" target="_blank">
+          <a href="http://peacetechsolution.com/demo/School_Managment_System/" target="_blank">
             <img class="shadow-6" src="assets/img/preview/block-1.jpg" alt="..." data-aos="fade-up" data-aos-delay="0" data-aos-offset="0">
           </a>
 
-          <a href="demo/POS/" target="_blank">
+          <a href="http://peacetechsolution.com/demo/School_Managment_System/" target="_blank">
             <img class="shadow-6" src="assets/img/preview/block-2.jpg" alt="..." data-aos="fade-up" data-aos-delay="200" data-aos-offset="0">
           </a>
 
-          <a href="demo/hms/" target="_blank">
+          <a href="http://peacetechsolution.com/demo/School_Managment_System/" target="_blank">
             <img class="shadow-6" src="assets/img/preview/block-3.jpg" alt="..." data-aos="fade-up" data-aos-delay="400" data-aos-offset="0">
-          </a>
+          
             
          
         </div>
+         
+        </div>
+		
 
       </div>
     </header><!-- /.header -->
@@ -65,7 +68,7 @@
           <div class="row gap-y">
 
             <div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="0">
-              <a class="card shadow-1 hover-shadow-7" href="demo/School_Managment_System/" target="_blank">
+              <a class="card shadow-1 hover-shadow-7" href="http://peacetechsolution.com/demo/School_Managment_System/" target="_blank">
                 <img class="card-img-top" src="assets/img/preview/demo-sms.jpg" alt="Demo">
                 <div class="card-body">
                   <h6 class="mb-0">School Managment System</h6>
@@ -77,7 +80,7 @@
               data-ad-client="ca-pub-7665929784754274">
 </amp-auto-ads>
             <div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="150">
-              <a class="card shadow-1 hover-shadow-7" href="demo/POS/" target="_blank">
+              <a class="card shadow-1 hover-shadow-7" href="http://peacetechsolution.com/demo/School_Managment_System/" target="_blank">
                 <img class="card-img-top" src="assets/img/preview/demo-pos.jpg" alt="Demo">
                 <div class="card-body">
                   <h6 class="mb-0">POS System</h6>
@@ -85,7 +88,7 @@
               </a>
             </div>
 				<div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="150">
-              <a class="card shadow-1 hover-shadow-7" href="demo/hms/" target="_blank">
+              <a class="card shadow-1 hover-shadow-7" href="http://peacetechsolution.com/demo/School_Managment_System/" target="_blank">
                 <img class="card-img-top" src="assets/img/preview/demo-hms.jpg" alt="Demo">
                 <div class="card-body">
                   <h6 class="mb-0">Hospital Managment System</h6>
@@ -93,7 +96,7 @@
               </a>
             </div>
              <div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="150">
-              <a class="card shadow-1 hover-shadow-7" href="demo/DMS/" target="_blank">
+              <a class="card shadow-1 hover-shadow-7" href="http://safabyporosh.somee.com/" target="_blank">
                 <img class="card-img-top" src="assets/img/preview/demo-dms.jpg" alt="Demo">
                 <div class="card-body">
                   <h6 class="mb-0">Dealer Management Software</h6>

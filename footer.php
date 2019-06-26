@@ -32,7 +32,7 @@
         
               <a class="nav-link" href="/page/service.php">Service</a>
 			   <a class="nav-link" href="/page/portfolio.php">Portfolio</a>
-			  
+			   <a class="nav-link"  href="/page/privacy.php">Privacy</a>
 			 <a class="nav-link"  href="/page/contact.php">Contact</a>
 		
             </div>

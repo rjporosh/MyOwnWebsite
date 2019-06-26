@@ -108,7 +108,7 @@
 
              <div class="col-md-12 col-lg-4 team-1">
              <a href="#">
-                <img src="../assets/img/avatar/porosh.jpg" alt="...">
+                <img src="../assets/img/avatar/porosh.png" alt="...">
               </a>
               <h6>Md.Ikramul Islam Siddique (Porosh)</h6>
               <small>Web Developer(Asp.net)</small>

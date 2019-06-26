@@ -35,7 +35,7 @@
               <h5>Dhaka, Bangladesh</h5>
               <br>
               <p>Savar Bus Stand, Savar<br>Dhaka-1340, Bangladesh</p>
-              <p>Phone: +88 01681942299<br>Email: abduttawabcse@gmail.com</p>
+              <p>Phone: +88 01672896992<br>Email: porosh19940423@gmail.com</p>
               <br>
               <!--<h6>Follow Us</h6>
               <div class="social social-sm social-inverse">

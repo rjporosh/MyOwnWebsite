@@ -73,10 +73,15 @@
 			 <li class="nav-item">
               <a class="nav-link" href="/page/portfolio.php">Portfolio 
 			</li>
+			
+        
 			    <li class="nav-item">
               <a class="nav-link" href="/page/contact.php">Contact 
+			  
 			  </li>
-        
+			    <li class="nav-item">
+              <a class="nav-link" href="/page/privacy.php">Privacy 
+			  </li>
               
 
           </ul>
